@@ -1,4 +1,4 @@
-🛒 E-commerce Product Scraper
+🛒 Books-Web-Scraper
 
 📖 Description
 
