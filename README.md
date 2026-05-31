@@ -1,4 +1,4 @@
-🛒 Python-Web-Scraping-Projects
+🛒 Python-Web-Scraping-Project
 
 📖 Description
 
@@ -34,7 +34,7 @@ The application allows users to enter a search query (e.g., *laptop*, *mobile*),
 📂 Project Structure
 
 ```
-Amazon_Flipkart_webproject/
+Python-Web-Scraping-Project/
 |-books_all.csv
 |-scraper.log
 |-Web_scraping_prices.ipynb
